@@ -1,0 +1,236 @@
+body{
+  margin:0px;
+  background-color:
+  font-family: 'Merriweather', serif;
+
+
+}
+
+
+  hr {
+    position: relative;
+    top: 30px;
+    left:0px;
+  border-style: dotted ;
+  color: black;
+  border-top-style: none;
+  border-width: 10PX;
+  width: 10%;
+  border-color: #bbbbbb;
+
+}
+
+.Main-Div{
+  background-color:#dff6f0;
+  width:1340px;
+  height:1000px;
+}
+.div-0{
+  width:1340px;
+  height:500px;
+  background-color: white;
+border:solid;
+}
+
+#profile{
+  position: relative;
+  left: 450px;
+  top:10px;
+
+}
+.profile-para{
+  width: 1340px;
+  height: 600px;
+  border:;
+  background-color: ;
+}
+#breakfast-para{
+  font-family: 'Handlee', cursive;
+  position: relative;
+  font-size: 40px;
+  left:100px;
+  top: 100px;
+}
+
+#skill-heading{
+  position: relative;
+  left: 45%;
+  top:20px;
+  font-size: 60px;
+  font-family: 'Catamaran', sans-serif;
+  color: lightgreen;
+}
+.profile-msg{
+  font-family: 'Patrick Hand', cursive;
+  color: green;
+  position: relative;
+  left: 480px;
+}
+#profile-para{
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left:250px;
+}
+#profile-para3{
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left:200px;
+  font-size: 30px;
+}
+
+#profile-para1{
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left:350px;
+}
+#profile-msg{
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left:200px;
+  font-size: 30px;
+}
+
+#banner-msg{
+  position: relative;
+  left: 500px;
+  font-family: 'Ribeye Marrow', cursive;
+
+}
+#img-0{
+  position: relative;
+  left:575px;
+}
+p{
+position: relative;
+left:500px;
+font-size: 30px;
+}
+#img-1{
+  position: relative;
+  left:275px;
+}
+#breakfast{
+position: relative;
+left:500px;
+top: 70px;
+}
+#web-designer{
+  position: relative;
+  top:70px;
+  left: 0px;
+  bottom: :0px;
+
+  position: relative 200px 0px 5px 0px;
+
+
+}
+#banana-para{
+  font-family: 'Handlee', cursive;
+  position: relative;
+  font-size: 40px;
+  top: 10px;
+  left: 0px;
+}
+#banana{
+  position: relative;
+  left: 1000px;
+}
+#web-para{
+  font-size: 40px;
+  position: relative;
+  left: 200px;
+  font-family: 'Handlee', cursive;
+
+}
+#img-3{
+  position: relative;
+  left:120px;
+
+}
+
+#img-4{
+  position: relative;
+  left: 10px;
+}
+#para{
+  text-decoration: underline;
+}
+#para3{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  position: relative;
+  font-size: 30px;
+  left: 200px;
+  top:100px;
+}
+#para2{
+  font-size: 20px;
+  position: relative;
+  right: 10px;
+}
+#para-web{
+  position: relative;
+  left: 10px;
+  font-size: 20px;
+}
+.myButton {
+  bottom: 20px;
+	background-color:#8dd2eb;
+  position: relative;
+  left: 500px;
+	border-radius:31px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 56px;
+	text-decoration:none;
+	text-shadow:0px 1px 13px #2f6627;
+}
+
+#list{
+  font-size: 35px;
+  position: relative;
+  left:20px;
+}
+#cont{
+  color: #357376;
+
+
+}
+
+.myButton:hover {
+	background-color:#47b6de;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer{
+  background-color: #8dd2eb;
+  width: 1340px;
+  height: 350px;
+}
+#Contact{
+  color: #29a19c;
+  font-size: 70px;
+  position:relative;
+  left:500px;
+}
+#end{
+  background-color: black;
+  color:yellow;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+
+}
+.end{
+  position: relative;
+  left: 500px;
+  bottom: 0px;
+
+}
